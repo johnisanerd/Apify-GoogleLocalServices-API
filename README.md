@@ -280,4 +280,4 @@ Prefer [n8n](https://n8n.io)? This API is also available as a community node, **
 
 *Use the Google Local Services API to power your data workflows with reliable, structured results.*
 
-Last Updated: 2026.07.26
+Last Updated: 2026.07.27
